@@ -1,7 +1,7 @@
 # Parking Garage System
 
 This application manages a parking space for a configurable maximum number of vehicles. Each parking space (slot) defined with a
-dimension (width and depth) The designed application handle the following functions:
+dimension (width and depth). The designed application handle the following functions:
 
 •Each vehicle shall be identified by a model name, unique identification number, Model year and vehicle dimensions (vehicle width and depth).
 •Park-in function that marks the arrival time of a vehicle if there is an available slot. The application shall capture such time automatically from the system.
